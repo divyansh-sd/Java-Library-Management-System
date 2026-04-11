@@ -3,10 +3,10 @@
 A robust and reliable Library Management System built with Core Java. This application provides a complete Command-Line Interface (CLI) to seamlessly manage books and track book reservations by students. Data is stored safely using Java Object Serialization, meaning all your inventory and student records persist across multiple sessions.
 
 ## Team Members
-- Divyansh (Roll No. 5)
-- Apoorva (Roll No. 2)
-- Janmajay (Roll No. 7)
-- anurag (roll no. 17)
+- Janmajay (Roll No. 07)
+- Apoorva (Roll No. 02)
+- Anurag (Roll No. 17)
+- Divyansh (roll no. 05)
 
 Group: 5  
 Project: Library Management System
