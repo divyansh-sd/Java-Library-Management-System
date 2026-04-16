@@ -5,7 +5,6 @@ A robust and reliable Library Management System built with Core Java. This appli
 ## Team Members
 - Janmajay (Roll No. 07)
 - Apoorva (Roll No. 02)
-- Anurag (Roll No. 17)
 - Divyansh (Roll No. 05)
 
 Group: 5  
